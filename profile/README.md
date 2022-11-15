@@ -1,4 +1,5 @@
-![Github Logo](https://github.com/SCF-Download/.github/blob/main/scf-email-banner.jpg)
+![Github Logo](https://github.com/SCF-Download/.github/blob/main/profile/scf-email-banner.jpg)
+
 # About The SCF
 
 Hackers share information on attack methods with other hackers, so why shouldn’t the good guys share information on how to best protect an organization? We decided to take action and make a difference.
